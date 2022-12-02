@@ -1,3 +1,5 @@
+beecrowd | 1049
+
 In this problem, your job is to read three Portuguese words. These words define an animal according to the table below, from left to right. After, print the chosen animal defined by these three words.
 
 ![image](https://user-images.githubusercontent.com/76879162/205238600-5581734d-46db-46bc-bb47-5562e84dc8f7.png)
